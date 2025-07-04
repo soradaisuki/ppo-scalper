@@ -61,7 +61,7 @@ ai-agent-trading-ppo/
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/soradaisuki/ppo-scalper.git
 cd ai-agent-trading-ppo
 
 # Create virtual environment
